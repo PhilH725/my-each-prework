@@ -3,4 +3,5 @@ def my_each(array)
   for i in (1..array.size)
     puts i
   end
+  array
 end
